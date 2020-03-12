@@ -28,4 +28,6 @@
 - Arrays
 - Array Methods
 
-<img src=""/>
+### Project: Responsive Design Testing
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-002776b4-2f3c-43bf-91bb-92df3e851ccf.jpg"/>
