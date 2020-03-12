@@ -31,3 +31,17 @@
 ### Project: Responsive Design Testing
 
 <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-002776b4-2f3c-43bf-91bb-92df3e851ccf.jpg"/>
+
+## Advanced JQuery
+
+- Setup JQuery
+- Get Content Method
+- Set Content Method
+- Add New HTML Content
+- Remove HTML Content
+- Add Class Method
+- Remove Class Method
+- Toggle Class Method
+- CSS Method
+
+<img src=""/>
