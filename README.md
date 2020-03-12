@@ -44,4 +44,6 @@
 - Toggle Class Method
 - CSS Method
 
-<img src=""/>
+### Project: Tic Tac Toe Game
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d14c8c51-3018-4b5a-af39-913290d88f92.jpg"/>
