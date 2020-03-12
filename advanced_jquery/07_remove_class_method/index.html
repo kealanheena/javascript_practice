@@ -3,28 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Remove HTML Content</title>
+  <title>Remove Class Method</title>
 
   <!-- JQuery -->
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 
   <!-- JavaScript -->
   <script src="main.js"></script>
+
+  <style>
+
+      .blue {
+        color: blue;
+      }
+  </style>
+
 </head>
 <body>
 
-  <div id="div1" style="height: 100px; width: 300px; border:1px solid black; background-color: yellow;">
-    
-    <h1>This is some text remove me</h1>
+   <h1 class="blue">Heading 1</h1>
+   <h2 class="blue">Heading 2</h2>
 
-  </div>
+   <p class="blue">Paragraph 1</p>
+   <p>Paragraph 2</p>
 
-  <br/>
-  <br/>
+   <button>Remove classes from elements</button>
 
-  <!-- <button>remove div element</button> -->
-
-  <button>empty div element</button>
-  
 </body>
 </html>
